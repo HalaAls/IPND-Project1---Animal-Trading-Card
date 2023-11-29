@@ -1,0 +1,41 @@
+.animal-fact{
+    font-style: italic;
+}
+.labels{
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+}
+.border{
+    border: 1px solid  black ;
+    border-radius: 5px
+}
+.padding-prop{
+    padding: 10px;
+}
+.card-width{
+    width: 300px;
+}
+h3{
+    margin: 0px;
+    text-align: center;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.div-style{
+    background-color:white
+    
+    
+}
+img{
+    border-radius: 4px;
+}
+.divout-style{
+    
+    background-color: rgb(255, 230, 242);
+}
+ul{
+    padding: 0;
+}
